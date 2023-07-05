@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 7202,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Nikki Main",
+            "title": "James Cameron: I 'Felt It in My Bones' That Titanic Sub Suffered a Catastrophe",
+            "description": "OceanGate, the operator of the Titan submersible which imploded while journeying to the wreckage site of the Titanic, reportedly received numerous warnings that the vessel was unsafe. All five passengers, including the company’s CEO, are presumed dead. James …",
+            "url": "https://gizmodo.com/titanic-sub-missing-james-cameron-navy-radar-son-1850569831",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c192ebda7cb4316cdb1337725918dba9.jpg",
+            "publishedAt": "2023-06-23T15:47:00Z",
+            "content": "OceanGate, the operator of the Titan submersible which imploded while journeying to the wreckage site of the Titanic, reportedly received numerous warnings that the vessel was unsafe. All five passen… [+5025 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Whitbrook",
+            "title": "Doctor Who Is Bringing Back One of Its Most Controversial Companions",
+            "description": "Doctor Who usually likes to save its returning stars for anniversary events, but with the upcoming trilogy of specials to celebrate its blockbuster 60th already jam-packed, now it’s up to Doctor Who’s 14th season to shoulder a few surprise appearances—and its…",
+            "url": "https://gizmodo.com/doctor-who-season-14-mel-bush-bonnie-lanford-disney-bbc-1850516815",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/516cad6ad41b01535b00d08df825fbb5.jpg",
+            "publishedAt": "2023-06-07T22:30:00Z",
+            "content": "Doctor Who usually likes to save its returning stars for anniversary events, but with the upcoming trilogy of specials to celebrate its blockbuster 60th already jam-packed, now its up to Doctor Whos … [+2809 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Rob Bricken",
+            "title": "Wow, Turns Out People Still Want More Walking Dead",
+            "description": "Since 2016 and its botched debut of Negan at the end of season six, ratings for The Walking Dead—once the most popular series on TV—steadily dropped into the toilet. That, along with the end of Fear the Walking Dead announced less than two months after the fl…",
+            "url": "https://gizmodo.com/walking-dead-dead-city-hit-ratings-amc-maggie-negan-1850561392",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8486f6cce72989cec1af2d63c951c183.jpg",
+            "publishedAt": "2023-06-21T20:20:00Z",
+            "content": "Since 2016 and its botched debut of Negan at the end of season six, ratings for The Walking Deadonce the most popular series on TVsteadily dropped into the toilet. That, along with the end of Fear th… [+2291 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Titanic director James Cameron: 'I felt in my bones what happened' to sub",
+            "description": "James Cameron, who has done 33 dives to the Titanic, tells the BBC he predicted the sub's loss days ago.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-65994707",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E824/production/_130182495_cameronstill.jpg",
+            "publishedAt": "2023-06-22T23:11:38Z",
+            "content": "Hollywood film director James Cameron, who helmed the 1997 movie Titanic, has told the BBC he predicted the loss of the Titan submersible days earlier.\r\nCameron has completed 33 dives to the wreck of… [+1761 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Conor McGregor accused of sex assault after NBA game",
+            "description": "The former UFC champion denies the allegations, which are being investigated by police in Miami.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-65924407",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C648/production/_130106705_54b390fe1c2a6b4a719ea9ec7ffa8b507360ea8e170_312_1125_7031125x703.jpg",
+            "publishedAt": "2023-06-16T01:05:37Z",
+            "content": "UFC fighter Conor McGregor has been accused of sexually assaulting a woman after an NBA Finals basketball game in Miami earlier this month.\r\nA legal letter outlining allegations, sent to Mr McGregor … [+1619 chars]"
+        }
+    ]
+}
