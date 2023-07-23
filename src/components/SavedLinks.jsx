@@ -9,15 +9,20 @@ const SavedLinks = ({ savedLinks, setSavedLinks }) => {
   };
 
   return (
-    <div className="saved-links">
-      <p>Si algún artículo es de tu interés, te causó gracia, asombro o preocupación, 
+    <div className="saved-links container mt-4">
+      <p>
+        Si algún artículo es de tu interés, te causó gracia, asombro o preocupación,
         puedes guardarlo en la siguiente lista.
       </p>
-      <ul className='list-group-flush'>
+      <ul className='list-group list-group-flush'>
         {savedLinks.map((link, index) => (
-          <li className='list-group-item list-group-item-primary text-center' key={index}>
-            <a className='list-group-item list-group-item-action list-group-item-info' href={link.url}>{link.title} </a>
-            <button className='btn-danger align-center' onClick={() => removeLink(index)}>Eliminar</button>
+          <li className='list-group-item list-group-item-primary d-flex justify-content-between align-items-center' key={index}>
+            <a className='list-group-item list-group-item-action list-group-item-info' href={link.url}>
+              {link.title}
+            </a>
+            <button className='btn btn-danger' onClick={() => removeLink(index)}>
+              Eliminar
+            </button>
           </li>
         ))}
       </ul>
@@ -25,4 +30,4 @@ const SavedLinks = ({ savedLinks, setSavedLinks }) => {
   );
 };
 
-export default SavedLinks
+export default SavedLinks;
